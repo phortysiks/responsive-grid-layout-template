@@ -1,1 +1,1 @@
-# responsive-grid-layout-template
+# Responsive HTML layout template using CSS Grid 
